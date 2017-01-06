@@ -1,0 +1,5 @@
+E:\GitHub\Steely\GameServer\bin\Debug\TNServer.exe
+E:\GitHub\Steely\GameServer\bin\Debug\TNServer.pdb
+E:\GitHub\Steely\GameServer\obj\Debug\GameServer.csprojResolveAssemblyReference.cache
+E:\GitHub\Steely\GameServer\obj\Debug\TNServer.exe
+E:\GitHub\Steely\GameServer\obj\Debug\TNServer.pdb
